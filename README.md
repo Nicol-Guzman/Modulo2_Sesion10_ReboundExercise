@@ -1,7 +1,7 @@
-# MODULO 2 - SESION 9
+# MODULO 2 - SESION 10
 ### Rebound Exercise
 
-Ejercicio de comprobación de la Sesión 9 del Módulo 2.
+Ejercicio de comprobación de la Sesión 10 del Módulo 2.
 
 Bootcamp Fullstack Javascript Trainee de la institución Edutecno certificado por el SENCE y Talento Digital para Chile.
 
