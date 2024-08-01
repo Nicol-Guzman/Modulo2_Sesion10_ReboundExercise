@@ -13,4 +13,4 @@ Bootcamp Fullstack Javascript Trainee de la institución Edutecno certificado po
 - Haz click en la imagen y luego mueve el puntero del mouse fuera de ella.
 - Doble click sobre el ultimo texto.
 
-*Nota*: _Este ejercicio es similar al Rebound de la seion 9, pero el funcionamiento esta hecho con JQuery._
+_**Nota**: Este ejercicio es similar al Rebound de la seion 9, pero el funcionamiento esta hecho con JQuery._
