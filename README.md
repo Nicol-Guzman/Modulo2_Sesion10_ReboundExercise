@@ -5,7 +5,7 @@ Ejercicio de comprobación de la Sesión 9 del Módulo 2.
 
 Bootcamp Fullstack Javascript Trainee de la institución Edutecno certificado por el SENCE y Talento Digital para Chile.
 
-[GOOGLE DRIVE DOWNLOAD](https://drive.google.com/file/d/1y-FgACob__sQsE6fq67b3DrxbzMGo7nr/view?usp=drive_link)
+[GOOGLE DRIVE DOWNLOAD](https://drive.google.com/file/d/1r8oQvGZLGutemJn-HVZu1vyjIdyq8DlA/view?usp=drive_link)
 
 ### Indicaciones de uso
 
